@@ -1,0 +1,5 @@
+# mac과 window를 구분하기 위해 설정 파일
+.vscode/
+
+# misc
+.DS_Store
